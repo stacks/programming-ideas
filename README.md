@@ -26,6 +26,9 @@ In [stacks/stacks-scatter](https://github.com/stacks/stacks-scatter) I started a
 ## Speed up the graph generation script
 If you have ever run this yourself, you'll know that it is slow. It does some non-trivial things, but maybe there is no reason for it to be this slow.
 
+## ``Relative'' page counts
+Instead of treating the Stacks project as a linear book, you could treat it as a book for each separate result. Then one would not say that the definition of an algebraic stack is on page 3000+, but probably much earlier. Of course, we have the number of tags in the statistics. The problem is also that for definitions there is no good dependency thingie.
+
 ## Improve the history functionality
 The way this is set up is very weird, and it deserves an overhaul.
 
